@@ -8,6 +8,7 @@ public static void main(String[] args) {
     sfasf
     xcv zvx
     zvzxv
+    zxvz
 }
 
 }
